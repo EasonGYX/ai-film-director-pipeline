@@ -1,0 +1,15 @@
+# 素材与生成物（不进仓库）
+生成/
+后期/seg/
+后期/*.png
+后期/*.jpg
+封面/*.png
+封面/*.jpg
+*.mp4
+*.mov
+*.zip
+__pycache__/
+*.pyc
+.pylibs/
+examples/smoke_test/work/
+!examples/smoke_test/*.md
